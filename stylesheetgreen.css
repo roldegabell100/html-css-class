@@ -1,0 +1,32 @@
+/*This is the colering file for the home page*/
+body{
+/*all files that starts thing that start with a point is part of a class, like .showcase*/
+    background: lightgray;
+    display: inline;
+}  
+.hiper{
+    background-color: #057212;
+    color: wheat;
+}
+h1{
+    padding-right:50px;
+}
+.header_2{
+ padding-left: 100px;
+}
+.showcase{
+    background: orangered;
+    font-size: 17px; 
+    padding-bottom: 300px;
+    padding-top: 300px;
+}
+.LOW{
+    padding-bottom: 100px;
+}
+footer{
+    color: #0B0A0A;
+    background-color: #211E1E;
+    padding-top: 30px;/*this moves the the writing on the copy right down 30pixels*/
+    padding-bottom: 10px;/*this moves the the writing on the copy right up 10pixels*/
+}
+
